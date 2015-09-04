@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GestionVentas", "GestionVentas\GestionVentas.vbproj", "{C9A2ECF1-A511-4E0E-8084-68A6889BEEDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaGestionVentas", "BibliotecaGestionVentas\BibliotecaGestionVentas.csproj", "{761C0DB4-8D8B-4D33-BADA-4DCA37B50E5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{C9A2ECF1-A511-4E0E-8084-68A6889BEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A2ECF1-A511-4E0E-8084-68A6889BEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A2ECF1-A511-4E0E-8084-68A6889BEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761C0DB4-8D8B-4D33-BADA-4DCA37B50E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761C0DB4-8D8B-4D33-BADA-4DCA37B50E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761C0DB4-8D8B-4D33-BADA-4DCA37B50E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761C0DB4-8D8B-4D33-BADA-4DCA37B50E5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

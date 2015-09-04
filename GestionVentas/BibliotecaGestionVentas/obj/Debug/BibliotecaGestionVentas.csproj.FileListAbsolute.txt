@@ -1,0 +1,4 @@
+C:\Users\HP 15 n-002\Documents\desarrollo.net\GestionVentas\BibliotecaGestionVentas\bin\Debug\BibliotecaGestionVentas.dll
+C:\Users\HP 15 n-002\Documents\desarrollo.net\GestionVentas\BibliotecaGestionVentas\bin\Debug\BibliotecaGestionVentas.pdb
+C:\Users\HP 15 n-002\Documents\desarrollo.net\GestionVentas\BibliotecaGestionVentas\obj\Debug\BibliotecaGestionVentas.dll
+C:\Users\HP 15 n-002\Documents\desarrollo.net\GestionVentas\BibliotecaGestionVentas\obj\Debug\BibliotecaGestionVentas.pdb

@@ -7,6 +7,8 @@ namespace BibliotecaGestionVentas
 {
     public class Venta
     {
+        
+
 
     }
 }

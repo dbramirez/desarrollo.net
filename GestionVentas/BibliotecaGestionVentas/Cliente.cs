@@ -5,7 +5,16 @@ using System.Text;
 
 namespace BibliotecaGestionVentas
 {
-    class Cliente
+    public class Cliente
     {
+        public Cliente()
+        {
+            this.Init();
+        }
+
+        private void Init()
+        {
+            
+        }
     }
 }

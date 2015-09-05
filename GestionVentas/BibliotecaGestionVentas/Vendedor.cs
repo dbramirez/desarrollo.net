@@ -7,6 +7,15 @@ namespace BibliotecaGestionVentas
 {
     public class Vendedor
     {
+        public Vendedor()
+        {
+            this.Init();
+        }
+
+        private void Init()
+        {
+            
+        }
 
     }
 }

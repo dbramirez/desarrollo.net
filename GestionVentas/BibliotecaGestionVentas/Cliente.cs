@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BibliotecaGestionVentas
 {
-    public class Cliente
+    public class Cliente:Persona
     {
         public Cliente()
         {

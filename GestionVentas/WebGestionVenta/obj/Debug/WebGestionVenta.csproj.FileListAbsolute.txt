@@ -1,0 +1,4 @@
+E:\GestionVenta\WebGestionVenta\bin\WebGestionVenta.dll
+E:\GestionVenta\WebGestionVenta\bin\WebGestionVenta.pdb
+E:\GestionVenta\WebGestionVenta\obj\Debug\WebGestionVenta.dll
+E:\GestionVenta\WebGestionVenta\obj\Debug\WebGestionVenta.pdb
